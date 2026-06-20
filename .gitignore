@@ -1,0 +1,4 @@
+.DS_Store
+config/stripe.local.php
+assets/images/uploads/*
+!assets/images/uploads/.gitkeep
